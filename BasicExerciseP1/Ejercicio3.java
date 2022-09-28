@@ -1,8 +1,10 @@
-package exercisebasic;
+
+package ejerciciosbasicos;
 
 import java.util.Scanner;
 
-public class Exercise3 {
+public class Ejercicio3 {
+
 
 	public static void main(String[] args) {
 		// creamos el scanner 
@@ -25,5 +27,4 @@ public class Exercise3 {
 				System.out.print("Usted tiene: "+ res +" Años");
 		sc.close();
 	}
-
 }

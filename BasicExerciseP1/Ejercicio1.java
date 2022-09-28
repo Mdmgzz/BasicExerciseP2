@@ -1,8 +1,8 @@
-package exercisebasic;
+package ejerciciosbasicos;
 
 import java.util.Scanner;
 
-public class Exercise1 {
+public class Ejercicio1 {
 
 	public static void main(String[] args) {
 		//creamos el scanner que nos leera el numero
@@ -18,5 +18,4 @@ public class Exercise1 {
 		}
 		lectura.close();
 	}
-
 }

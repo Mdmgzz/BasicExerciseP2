@@ -1,9 +1,10 @@
-package exercisebasic;
+
+package ejerciciosbasicos;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-public class Exercise4 {
+public class Ejercicio4 {
 
 	public static void main(String[] args) {
 		//creamos el scanner para leer las notas 
@@ -34,4 +35,3 @@ public class Exercise4 {
 		notas.close();
 	}
 	}
-

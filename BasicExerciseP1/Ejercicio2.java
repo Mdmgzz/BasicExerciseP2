@@ -1,8 +1,9 @@
-package exercisebasic;
+
+package ejerciciosbasicos;
 
 import java.util.Scanner;
 
-public class Exercise2 {
+public class Ejercicio2 {
 
 	public static void main(String[] args) {
 		//creamos el scanner 
@@ -20,5 +21,4 @@ public class Exercise2 {
 				System.out.print("En su próximo cumpleaños cumplirás: " + masUno);
 		lectura.close();
 	}
-
 }
